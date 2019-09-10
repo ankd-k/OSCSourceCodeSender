@@ -18,6 +18,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "fast-diff": "^1.2.0",
     "node-osc": "^2.1.0"
   }
 }
