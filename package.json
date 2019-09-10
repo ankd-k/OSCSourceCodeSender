@@ -18,7 +18,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "node-osc": "^2.1.0",
-    "osc-js": "^1.2.2"
+    "node-osc": "^2.1.0"
   }
 }
